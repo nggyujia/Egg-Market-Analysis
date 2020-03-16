@@ -9,7 +9,7 @@ The purpose of this project is an exploratory data analysis of egg prices in the
 
 ## Installation
 
-The project is written in Python in Jupyter Notebook. You can see the analysis in (When Can You Save the Most on Eggs?.ipynb)[https://github.com/nggyujia/Egg-Market-Analysis/blob/master/When%20Can%20You%20Save%20the%20Most%20on%20Eggs%3F.ipynb]. No extra installation is needed to access the analysis.
+The project is written in Python in Jupyter Notebook. You can see the analysis in [When Can You Save the Most on Eggs?.ipynb](https://github.com/nggyujia/Egg-Market-Analysis/blob/master/When%20Can%20You%20Save%20the%20Most%20on%20Eggs%3F.ipynb). No extra installation is needed to access the analysis.
 
 ## Data
 
