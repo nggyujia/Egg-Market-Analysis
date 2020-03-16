@@ -5,7 +5,7 @@ This project is part of the [Udacity Data Science Nanodegree program](https://ww
 
 ## Introduction
 
-The purpose of this project is an exploratory data analysis of egg prices in the U.S. It practices gathering data and performing analysis to answer questions that are of the interest of stakeholders. In this case, the post is intended for audience with an interest in consumer trends and want to find out more on commodity market changes. It follows the Cross-Industry Standard Process for Data Mining (CRISP-DM) guideline by understanding the problem and data, preparing the data, selecting the approapriate methods to analyze, and communiting the analysis results to others.
+The purpose of this project is an exploratory data analysis of egg prices in the U.S. It practices gathering data and performing analysis to answer questions that are of the interest of stakeholders. In this case, the post is intended for audience with an interest in consumer trends and want to find out more on commodity market changes in eggs. It follows the Cross-Industry Standard Process for Data Mining (CRISP-DM) guideline by understanding the problem and data, preparing the data, selecting the approapriate methods to analyze, and communiting the analysis results to others.
 
 ## Installation
 
