@@ -1,5 +1,5 @@
 # When Can You Save the Most on Eggs?
-This project is a part of the [Udacity Data Science Nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
+This project is part of the [Udacity Data Science Nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 
 #### -- Project Status: [Completed]
 
